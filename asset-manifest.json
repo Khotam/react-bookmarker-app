@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-bookmarker-app/static/css/main.702c307e.chunk.css",
+    "main.js": "/react-bookmarker-app/static/js/main.e29e68cc.chunk.js",
+    "main.js.map": "/react-bookmarker-app/static/js/main.e29e68cc.chunk.js.map",
+    "runtime-main.js": "/react-bookmarker-app/static/js/runtime-main.c7eb5f70.js",
+    "runtime-main.js.map": "/react-bookmarker-app/static/js/runtime-main.c7eb5f70.js.map",
+    "static/js/2.0a9d4808.chunk.js": "/react-bookmarker-app/static/js/2.0a9d4808.chunk.js",
+    "static/js/2.0a9d4808.chunk.js.map": "/react-bookmarker-app/static/js/2.0a9d4808.chunk.js.map",
+    "index.html": "/react-bookmarker-app/index.html",
+    "precache-manifest.7d9bb19f631894538f36ca657f2654ae.js": "/react-bookmarker-app/precache-manifest.7d9bb19f631894538f36ca657f2654ae.js",
+    "service-worker.js": "/react-bookmarker-app/service-worker.js",
+    "static/css/main.702c307e.chunk.css.map": "/react-bookmarker-app/static/css/main.702c307e.chunk.css.map",
+    "static/js/2.0a9d4808.chunk.js.LICENSE.txt": "/react-bookmarker-app/static/js/2.0a9d4808.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7eb5f70.js",
+    "static/js/2.0a9d4808.chunk.js",
+    "static/css/main.702c307e.chunk.css",
+    "static/js/main.e29e68cc.chunk.js"
+  ]
+}
