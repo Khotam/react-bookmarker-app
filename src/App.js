@@ -1,24 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import BookmarkContextProvider from './contexts/BookmarkContext';
+import Header from './components/Header';
+import NewBookmark from './components/NewBookmark';
+import BookmarksList from './components/BookmarksList';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <BookmarkContextProvider>
+        <Header />
+        <NewBookmark />
+        <BookmarksList />
+      </BookmarkContextProvider>
+      <Footer />
     </div>
   );
 }
